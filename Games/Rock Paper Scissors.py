@@ -20,4 +20,4 @@ while 1:
     elif (outcome == 1 )*( outcome == -2):
         print(f"You win!")
     else:
-        print(f"You lose!")
+        print(f"You lose!") 
