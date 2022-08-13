@@ -19,5 +19,5 @@ while 1:
         print(f"Draw!")
     elif (outcome == 1 )*( outcome == -2):
         print(f"You win!")
-    else:
+    else: 
         print(f"You lose!") 
